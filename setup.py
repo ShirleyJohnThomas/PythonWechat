@@ -12,9 +12,9 @@
 '''
 
 from setuptools import setup, find_packages
-from wechat import VERSION
+from PythonWechat import VERSION
 
-url="https://github.com/jeffkit/wechat"
+url="https://github.com/ShirleyJohnThomas/PythonWechat"
 
 long_description="Wechat Python SDK"
 
